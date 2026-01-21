@@ -35,7 +35,5 @@ bindkey '^[w' kill-whole-line
 eval "$(fnm env --use-on-cd --shell zsh)"
 
 #### Read aliases 
-ALIASES_FILE="$HOME/.config/zsh/aliases.zsh"  # 置き場所は任意。例として ~/.zsh/
-if [ -f "$ALIASES_FILE" ]; then
-  source "$ALIASES_FILE"
-fi
+ALIASES_FILE="$HOME/.config/zsh/aliases.zsh"
+source "$ALIASES_FILE"
