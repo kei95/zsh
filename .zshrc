@@ -23,9 +23,6 @@ WORDCHARS=''
 ###### Delete texts with cmd+delete #####
 bindkey '^[w' kill-whole-line
 
-##### node version manager. Uncomment and install fnm or replace with your favorite tool #####
-eval "$(fnm env --use-on-cd --shell zsh)"
-
 #### Read aliases 
 alias open='nvim'
 
