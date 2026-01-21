@@ -35,4 +35,15 @@ bindkey '^[w' kill-whole-line
 eval "$(fnm env --use-on-cd --shell zsh)"
 
 #### Read aliases 
-source "$HOME/.config/zsh/aliases.zsh"
+alias open='nvim'
+
+#### Apply hidden sources (ignored by Git; e.g., secrets or machine-specific)
+#### It recursively reads all .zsh files in the hidden/ 
+HIDDEN_ALIASES_DIR="$HOME/.config/zsh/hidden"
+if [ -d "$HIDDEN_ALIASES_DIR" ]; then
+  for f in "$HIDDEN_ALIASES_DIR"/*.zsh(N); do
+    if [ -r "$f" ] && [ -f "$f" ]; then
+      source "$f"
+    fi
+  done
+fi

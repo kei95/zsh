@@ -24,3 +24,9 @@ fi
  5. Install zsh-syntax-highlighting: `brew install zsh-syntax-highlighting`
  6. (Optional) Install [Neovim](https://neovim.io/) and set it up as your default editor
 ```
+
+4. Restart your terminal or run `source ~/.zshrc` to apply the changes.
+
+## `hidden/` Directory
+
+Use this directory to store any sensitive information or configurations that it specific to your environment. This directory is included in the `.gitignore` file to prevent accidental commits of sensitive data.
