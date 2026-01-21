@@ -20,12 +20,6 @@ bindkey "^[[B" down-line-or-beginning-search
 #### Make word deletion stop at path separators, etc.
 WORDCHARS=''
 
-###### Delete texts with cmd+delete #####
-bindkey '^[w' kill-whole-line
-
-#### Read aliases 
-alias open='nvim'
-
 #### Apply hidden sources (ignored by Git; e.g., secrets or machine-specific)
 #### It recursively reads all .zsh files in the hidden/ 
 HIDDEN_ALIASES_DIR="$HOME/.config/zsh/hidden"

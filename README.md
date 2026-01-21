@@ -13,6 +13,25 @@ This is my own configuration of zsh. Heavily depending on home brew so is for Ma
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell-like syntax highlighting for Zsh.
 - [Neovim](https://neovim.io/) (Optional) - A hyperextensible Vim-based text editor.
 
+## Features
+
+### Key Bindings
+
+| Key              | Action                                                  |
+| ---------------- | ------------------------------------------------------- |
+| `↑` (Up Arrow)   | Search history for commands starting with current input |
+| `↓` (Down Arrow) | Search history for commands starting with current input |
+
+### Other Settings
+
+- **WORDCHARS**: Set to empty string so word deletion (`Ctrl+W`, `Alt+Backspace`) stops at path separators (`/`), dots, etc.
+- **LANG**: Set to `en_US.UTF-8`
+- **EDITOR**: Set to `nvim` (Neovim)
+
+### Hidden Directory Auto-loading
+
+All `.zsh` files in `~/.config/zsh/hidden/` are automatically sourced. This is useful for machine-specific configurations or secrets that shouldn't be committed to git.
+
 ## Installation
 
 1. **[IMPORTANT]** Set the following code in your `.zshrc` file
