@@ -4,6 +4,17 @@
 
 This is my own configuration of zsh. Heavily depending on home brew so is for Mac OS.
 
+## Used Tools
+
+- [Zsh](https://www.zsh.org/) - A powerful shell that operates as both an interactive shell and a scripting language interpreter.
+- [Homebrew](https://brew.sh/) - The missing package manager for macOS (or Linux).
+- [Starship](https://starship.rs/) - The minimal, blazing-fast, and infinitely customizable prompt for any shell.
+- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions): Fish-like fast/unobtrusive autosuggestions for zsh.
+- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell-like syntax highlighting for Zsh.
+- [Neovim](https://neovim.io/) (Optional) - A hyperextensible Vim-based text editor.
+
+## Installation
+
 1. **[IMPORTANT]** Set the following code in your `.zshrc` file
 
 ```zsh
@@ -16,7 +27,7 @@ fi
 ```
 
 2. Clone this repo
-`git clone https://github.com/kei95/zsh ~/.config/zsh`
+   `git clone https://github.com/kei95/zsh ~/.config/zsh`
 
 3. Install prequired modules
 
