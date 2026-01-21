@@ -1,11 +1,3 @@
-#Prerequisites:
-# 1. Install Homebrew and make sure it's in your PATH
-# 2. Install zsh: brew install zsh
-# 3. Install starship: brew install starship
-# 4. Install zsh-autosuggestions: brew install zsh-autosuggestions
-# 5. Install zsh-syntax-highlighting: brew install zsh-syntax-highlighting
-# 6. Install Neovim and set it up as your default editor
-
 ##### Language/Editor #####
 export LANG=en_US.UTF-8
 export EDITOR=nvim
