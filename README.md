@@ -1,5 +1,7 @@
 ### [日本語はこちら](README.ja.md)
 
+![Screenshot](.github/screenshot.png)
+
 # .zshrc
 
 Personal configuration for zsh. Following the Ghostty team's "Zero Configuration Philosophy", this config contains only minimal customizations.
