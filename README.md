@@ -1,6 +1,6 @@
-### [日本語はこちら](README.ja.md)
-
 ![Screenshot](.github/screenshot.png)
+
+### [日本語はこちら](README.ja.md)
 
 # .zshrc
 
