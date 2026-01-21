@@ -4,7 +4,7 @@
 
 ## 使用ツール
 
-- [Zsh](https://www.zsh.org/) - 対話型シェルとスクリプト言語インタプリタの両方として動作する強力なシェル。
+- [zsh](https://www.zsh.org/) - 対話型シェルとスクリプト言語インタプリタの両方として動作する強力なシェル。
 - [Homebrew](https://brew.sh/) - macOS（またはLinux）用のパッケージマネージャー。
 - [Starship](https://starship.rs/) - 高速でカスタマイズ性の高いシェルプロンプト。
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish風の高速で控えめな自動補完。

@@ -6,7 +6,7 @@ This is my own configuration of zsh. Heavily depending on home brew so is for Ma
 
 ## Used Tools
 
-- [Zsh](https://www.zsh.org/) - A powerful shell that operates as both an interactive shell and a scripting language interpreter.
+- [zsh](https://www.zsh.org/) - A powerful shell that operates as both an interactive shell and a scripting language interpreter.
 - [Homebrew](https://brew.sh/) - The missing package manager for macOS (or Linux).
 - [Starship](https://starship.rs/) - The minimal, blazing-fast, and infinitely customizable prompt for any shell.
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions): Fish-like fast/unobtrusive autosuggestions for zsh.
