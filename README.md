@@ -2,11 +2,11 @@
 
 This is my own configuration of zsh. Heavily depending on home brew so is for Mac OS.
 
-1. Set the following code in your `.zshrc` file
+1. **[IMPORTANT]** Set the following code in your `.zshrc` file
 ```zsh
 # ~/.zshrc
 
-# XDG準拠の場所に委譲
+# Grab zsh config from this repo 
 if [ -f "$HOME/.config/zsh/.zshrc" ]; then
   source "$HOME/.config/zsh/.zshrc"
 fi
