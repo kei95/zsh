@@ -35,5 +35,4 @@ bindkey '^[w' kill-whole-line
 eval "$(fnm env --use-on-cd --shell zsh)"
 
 #### Read aliases 
-ALIASES_FILE="$HOME/.config/zsh/aliases.zsh"
-source "$ALIASES_FILE"
+source "$HOME/.config/zsh/aliases.zsh"
