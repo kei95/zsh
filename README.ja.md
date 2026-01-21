@@ -2,6 +2,17 @@
 
 これは僕個人のzsh設定です。Homebrewに大きく依存しているため、Mac OS専用です。
 
+## 使用ツール
+
+- [Zsh](https://www.zsh.org/) - 対話型シェルとスクリプト言語インタプリタの両方として動作する強力なシェル。
+- [Homebrew](https://brew.sh/) - macOS（またはLinux）用のパッケージマネージャー。
+- [Starship](https://starship.rs/) - 高速でカスタマイズ性の高いシェルプロンプト。
+- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish風の高速で控えめな自動補完。
+- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish風のシンタックスハイライト。
+- [Neovim](https://neovim.io/) (任意) - Vimベースの拡張性の高いテキストエディタ。
+
+## インストール
+
 1. **[重要]** 以下のコードを`.zshrc`ファイルに追加してください
 
 ```zsh
