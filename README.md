@@ -1,8 +1,10 @@
+### [日本語はこちら](README.ja.md)
+
 # .zshrc
 
-[日本語はこちら](README.ja.md)
+Personal configuration for zsh. Following the Ghostty team's "Zero Configuration Philosophy", this config contains only minimal customizations.
 
-This is my own configuration of zsh. Heavily depending on home brew so is for Mac OS.
+It includes features like shell prompt, syntax highlighting, autosuggestions, and command history search.
 
 ## Used Tools
 
