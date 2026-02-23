@@ -2,6 +2,10 @@
 
 ### [日本語はこちら](README.ja.md)
 
+**I use Ghostty for a terminal emulator and I recommend you too. If you'd like full-package config for your terminal, go have a look before setting up this shell. https://github.com/kei95/ghostty**
+
+**Ghosttyの設定も上げています。ターミナルエミュレーターごと設定を合わせたい方はこちらを先に設定してみてください: https://github.com/kei95/ghostty/blob/main/README.ja.md**
+
 # .zshrc
 
 Personal configuration for zsh. Following the Ghostty team's "Zero Configuration Philosophy", this config contains only minimal customizations.

@@ -1,5 +1,7 @@
 ![Screenshot](.github/screenshot.png)
 
+**Ghosttyの設定も上げています。ターミナルエミュレーターごと設定を合わせたい方はこちらを先に設定してみてください: https://github.com/kei95/ghostty/blob/main/README.ja.md**
+
 # .zshrc
 
 zshの個人的設定です。Ghosttyチームの掲げる"Zero Configuration Philosophy (設定不要哲学)"に従い、必要最低限のカスタマイズのみを行った設定ファイルです。
