@@ -1,5 +1,7 @@
 ![Screenshot](.github/screenshot.png)
 
+[![Configの動画](https://img.youtube.com/vi/qrKBLXqksTQ/0.jpg)](https://www.youtube.com/watch?v=qrKBLXqksTQ)
+
 **Ghosttyの設定も上げています。ターミナルエミュレーターごと設定を合わせたい方はこちらを先に設定してみてください: https://github.com/kei95/ghostty/blob/main/README.ja.md**
 
 # .zshrc

@@ -1,5 +1,7 @@
 ![Screenshot](.github/screenshot.png)
 
+[![Configの動画](https://img.youtube.com/vi/qrKBLXqksTQ/0.jpg)](https://www.youtube.com/watch?v=qrKBLXqksTQ)
+
 ### [日本語はこちら](README.ja.md)
 
 **I use Ghostty for a terminal emulator and I recommend you too. If you'd like full-package config for your terminal, go have a look before setting up this shell. https://github.com/kei95/ghostty**
