@@ -10,7 +10,7 @@
 
 # .zshrc
 
-Personal configuration for zsh. Following the Ghostty team's "Zero Configuration Philosophy", this config contains only minimal customizations.
+Personal zsh configuration for macOS and Linux. Following the Ghostty team's "Zero Configuration Philosophy", this config contains only minimal customizations.
 
 It includes features like shell prompt, syntax highlighting, autosuggestions, and command history search.
 

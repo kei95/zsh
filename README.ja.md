@@ -6,7 +6,7 @@
 
 # .zshrc
 
-zshの個人的設定です。Ghosttyチームの掲げる"Zero Configuration Philosophy (設定不要哲学)"に従い、必要最低限のカスタマイズのみを行った設定ファイルです。
+macOSまたはLinux上での個人的zsh設定です。Ghosttyチームの掲げる"Zero Configuration Philosophy (設定不要哲学)"に従い、必要最低限のカスタマイズのみを行った設定ファイルです。
 
 シェルプロンプト、シンタックスハイライト、自動保管とコマンドの履歴検索などの機能が含まれています。
 
